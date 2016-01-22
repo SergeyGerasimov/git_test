@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1502d726-0495-424a-a09c-da2398a38488" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spoon-Knife" afterPath="$PROJECT_DIR$/Spoon-Knife" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Spoon-Knife/index.html" afterPath="$PROJECT_DIR$/Spoon-Knife/index.html" />
     </list>
     <ignored path="git_test.iws" />
