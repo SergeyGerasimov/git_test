@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1502d726-0495-424a-a09c-da2398a38488" name="Default" comment="" />
+    <list default="true" id="1502d726-0495-424a-a09c-da2398a38488" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="git_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -576,7 +578,7 @@
       <option name="number" value="Default" />
       <updated>1453403975273</updated>
       <workItem from="1453403978833" duration="3930000" />
-      <workItem from="1453471778593" duration="459000" />
+      <workItem from="1453471778593" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="what to commit">
       <created>1453418708770</created>
@@ -588,7 +590,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4389000" />
+    <option name="totallyTimeSpent" value="4606000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
